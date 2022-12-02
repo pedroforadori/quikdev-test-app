@@ -9,6 +9,7 @@ Após clonar o repositorio, executar os seguintes passos no terminal para subir 
 3 - npm run dev
 
 #APP
+
 Se deu todo certo ate aqui, clonar o repositorio deste README.md (https://github.com/pedroforadori/quikdev-test-app). E depois rodar os seguintes comandos: 
 1 - npm install
 2 - npm run dev
